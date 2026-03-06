@@ -21,4 +21,4 @@ in real python environment:
 
 # step 4 :
 
-manually copy content in the 团建联络员打分结果_自动评估.xlsx and  团建联络员工作记录表.xlsx to the 团建联络员打分表.xlsx and 团建联络员工作记录表陈明远.docx 
+manually copy content in the 团建联络员打分结果_自动评估.xlsx and  团建联络员工作记录表.xlsx to the 团建联络员打分表.xlsx and 团建联络员工作记录表.docx 

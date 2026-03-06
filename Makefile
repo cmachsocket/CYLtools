@@ -12,7 +12,7 @@ rezult:
 	python csv_to_excel.py --input 团建联络员工作记录表_填写结果.csv --overwrite 
 
 deletecache :
-	rm -rf 团建联络员工作记录表陈明远.md
+	rm -rf 团建联络员工作记录表.md
 
 build: docxtomd classify deletecache
 
@@ -20,6 +20,6 @@ clean :
 	cd .. && rm -rf *.md && find . -type d -name "本*" -exec rm -rf {} +
 	rm -rf 团建联络员工作记录表_填写结果.xlsx 
 	rm -rf 团建联络员打分结果_自动评估.xlsx
-	rm -rf 团建联络员工作记录表陈明远.md
+	rm -rf 团建联络员工作记录表.md
 
 # read and excute step 1 2 3
