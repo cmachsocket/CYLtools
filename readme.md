@@ -2,7 +2,7 @@
 
 in real python environment:
 
-`cd tools && make build`
+`cd CYLtools && make build`
 
 # step 2 :
 
@@ -17,8 +17,8 @@ tell agent:
 
 in real python environment:
 
-`cd tools && make rezult`
+`cd CYLtools && make rezult`
 
 # step 4 :
 
-manually copy content in the 团建联络员打分结果_自动评估.xlsx and  团建联络员工作记录表.xlsx to the 团建联络员打分表.xlsx and 团建联络员工作记录表.docx 
+manually modify requiried data from "线上活动参与情况" to "线下活动参与情况" in the document and manually update "联系团建联络员情况" in the sheet.
